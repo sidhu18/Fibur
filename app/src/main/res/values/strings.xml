@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FindmyBus</string>
+    <string name="title_activity_track">Map</string>
+    <string name="Password">Password</string>
+    <string name="Email">Your email id</string>
+    <string name="add_acnt">DON\'T HAVE AN ACCOUNT ?</string>
+    <string name="sign_up_btn">SIGN UP</string>
+    <string name="title_activity_search">Search</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
